@@ -1,0 +1,12 @@
+body{
+    background-color: #3a3a3a;
+    color: aliceblue;
+}
+h1{
+    font-size: 5rem;
+    padding: 20px;
+    text-align: center;
+}
+p{
+    font-size: 2rem;
+}
